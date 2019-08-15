@@ -11,4 +11,12 @@ Second:first:click the command "apollo-broker" run  in command line in this dire
 
 ![second](https://github.com/Leemu0822/MQTT_Unity/blob/master/2.png)
 
+Find this configuration file
+
+![third](https://github.com/Leemu0822/MQTT_Unity/blob/master/3.png)
+
+Modify this configuration file
+
+![fourth](https://github.com/Leemu0822/MQTT_Unity/blob/master/4.png)
+
 
